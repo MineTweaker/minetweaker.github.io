@@ -2,15 +2,15 @@
 ZenCode is a multi-purpose scripting and programming language intended for a far wider use than just MineTweaker. In future, the scripting system will be hosted on a separate website, but for now, its complete specification will be available here.
 
 Contents
-- [Introduction]()
-- [Scripts]()
-- [Types]()
-- [Primitive types]()
-- [Arrays]()
-- [Associative Arrays]()
-- [The any type]()
-- [Type handling]()
-- [Statements]()
+- [Introduction](https://minetweaker.github.io/wiki/ZenCode_specification#:~:text=Statements-,Introduction,-The%20purpose%20of)
+- [Scripts](https://minetweaker.github.io/wiki/ZenCode_specification#:~:text=language%E2%80%99s%20casting%20rules.-,Scripts,-ZenCode%20projects%20are)
+- [Types](https://minetweaker.github.io/wiki/ZenCode_specification#:~:text=File%3AGrammar%20scriptelement.png-,Types,-ZenCode%20knows%20the)
+- [Primitive types](https://minetweaker.github.io/wiki/ZenCode_specification#:~:text=generic%20type%20parameters.-,Primitive%20types,-The%20following%20primitive)
+- [Arrays](https://minetweaker.github.io/wiki/ZenCode_specification#:~:text=return%20a%20value-,Arrays,-Arrays%20(lists)%20contain)
+- [Associative Arrays](https://minetweaker.github.io/wiki/ZenCode_specification#:~:text=1%2C%202%5D.fixed%3B-,Associative%20Arrays,-Being%20a%20very)
+- [The any type](https://minetweaker.github.io/wiki/ZenCode_specification#:~:text=with%20the%20%7B%7D%20notation.-,The%20any%20type,-A%20special%20type)
+- [Type handling](https://minetweaker.github.io/wiki/ZenCode_specification#:~:text=it%20is%20converted.-,Type%20handling,-Specifying%20the%20type)
+- [Statements](https://minetweaker.github.io/wiki/ZenCode_specification#:~:text=static%20type%20system.-,Statements,-The%20traditional%20statements)
 
 # Introduction
 The purpose of ZenCode is to make it possible for non-programmers (or programmers with little experience) to use a simple scripting language while allowing more experienced programmers to take advantage of all the speed and features offered by modern object-oriented languages. Currently, ZenCode compiles at runtime to java bytecode, but in future, other target platforms should be supported.
