@@ -1,23 +1,23 @@
 # Main Page
 ## Contents
-[MineTweaker3]()
-[Comparison with MineTweaker 2]()
-[Tutorials (1.7.X)]()
-[Tutorials (1.6.4)]()
-[Guides]()
-[Mod Support]()
-[Known incompatibilities]()
-[References]()
-[Extending MineTweaker]()
-[Changelog & Planned Versions]()
-[Credits]()
+- [MineTweaker3](https://minetweaker.github.io/wiki/Main_Page#:~:text=Planned%20Versions%20Credits-,MineTweaker%203,-Welcome%20to%20the)
+- [Comparison with MineTweaker 2](https://minetweaker.github.io/wiki/Main_Page#:~:text=Mod%20Script%20Execution-,Comparison%20with%20MineTweaker%202,-Comparison%20with%20MineTweaker)
+- [Tutorials (1.7.X)](https://minetweaker.github.io/wiki/Main_Page#:~:text=with%20MineTweaker%202-,Tutorials%20(1.7.X),-Lesson%201%3A%20Introduction)
+- [Tutorials (1.6.4)](https://minetweaker.github.io/wiki/Main_Page#:~:text=Lesson%2010%3A%20Localization-,Tutorials%20(1.6.4),-Lesson%201%3A%20Introduction)
+- [Guides](https://minetweaker.github.io/wiki/Main_Page#:~:text=Lesson%2010%3A%20Localization-,Guides,-Script%20Introduction%20Script)
+- [Mod Support](https://minetweaker.github.io/wiki/Main_Page#:~:text=Expressions%20Script%20Functions-,Mod%20Support,-BetterStorage%3A%20BetterStorage%20Support)
+- [Known Incompatibilities](https://minetweaker.github.io/wiki/Main_Page#:~:text=Additional%20Content%3A%20ContentTweaker-,Known%20Incompatibilities,-CraftingManager%20isn%E2%80%99t%20compatible)
+- [References](https://minetweaker.github.io/wiki/Main_Page#:~:text=modifications%20are%20forbidden.-,References,-The%20following%20wiki)
+- [Extending MineTweaker](https://minetweaker.github.io/wiki/Main_Page#:~:text=NBT%20Tag%20formats-,Extending%20MineTweaker,-More%20than%20ever)
+- [Changelog & Planned Versions](https://minetweaker.github.io/wiki/Main_Page#:~:text=or%20contact%20me)-,Changelog%20%26%20Planned%20Versions,-Changelog%20Planned%20Versions)
+- [Credits](https://minetweaker.github.io/wiki/Main_Page#:~:text=Changelog%20Planned%20Versions-,Credits,-Stan%20Hebben%2C%20as)
 
 
 # MineTweaker 3
 Welcome to the MineTweaker 3 wiki! The aim of MineTweaker is to provide modpack creators, server administrators and map makers with the capability of customizing Minecraft without having to write a custom mod for it.
 All functionality is provided through an easy-to-use scripting language. (no prior knowledge or programming experience required!)
 
-Using MineTweaker, you can...
+## Using MineTweaker, you can...
 - Add and remove any crafting recipe
 - Add and remove mod machine recipes for supported mods
 - Modify the ore dictionary
@@ -82,18 +82,17 @@ If you encounter any other incompatibilities, let me know, so I can add them to 
 Although these mods should be compatible, it is not allowed to change RotaryCraft, ReactorCraft, ElectriCraft and ChromatiCraft recipes, or add recipes that modify the tech tree. The mod author, Reika, has explicitly stated that such modifications are forbidden.
 
 # References
-The following wiki pages provide useful references:
+## The following wiki pages provide useful references:
 - [NBT Tag formats]()
 
 # Extending MineTweaker
 More than ever before, you can extend MineTweaker with your own functionality.
 
-There are various things you can do:
-
-You can register global variables with minetweaker.MineTweakerAPI.registerGlobalSymbol(IZenSymbol). Use MineTweakerAPI.getJavaStaticGetterSymbol to get a static getter symbol or MineTweakerAPI.getJavaStaticFieldSymbol to get a static field symbol.
-You can register bracket handlers with minetweaker.MineTweakerAPI.registerBracketHandler(IBracketHandler). Bracket handlers can make it possible to create your own namespace for items/things in specific mods. See the minetweaker.mc17.brackets for example implementations.
-You can register custom classes with minetweaker.MineTweakerAPI.registerClass. Classes must have either a @ZenClass or @ZenExpansion annotation. Classes can be imported and called (handy for mod machines) and expansions can extend existing types (see minetweaker.data for examples, as well as minetweaker.item.IItemStack)
-In large projects, you can use the gradle RegisterZenClassesTask (see GitHub source in buildSrc) to generate a class containing a list of all registerable classes in your project. You can then submit the class name to MineTweakerAPI to make it register all those classes. All MineTweaker subproject use this system, so read those gradle build scripts to see how it's done. (or contact me)
+## There are various things you can do:
+- You can register global variables with minetweaker.MineTweakerAPI.registerGlobalSymbol(IZenSymbol). Use MineTweakerAPI.getJavaStaticGetterSymbol to get a static getter symbol or MineTweakerAPI.getJavaStaticFieldSymbol to get a static field symbol.
+- You can register bracket handlers with minetweaker.MineTweakerAPI.registerBracketHandler(IBracketHandler). Bracket handlers can make it possible to create your own namespace for items/things in specific mods. See the minetweaker.mc17.brackets for example implementations.
+- You can register custom classes with minetweaker.MineTweakerAPI.registerClass. Classes must have either a @ZenClass or @ZenExpansion annotation. Classes can be imported and called (handy for mod machines) and expansions can extend existing types (see minetweaker.data for examples, as well as minetweaker.item.IItemStack)
+- In large projects, you can use the gradle RegisterZenClassesTask (see GitHub source in buildSrc) to generate a class containing a list of all registerable classes in your project. You can then submit the class name to MineTweakerAPI to make it register all those classes. All MineTweaker subproject use this system, so read those gradle build scripts to see how it's done. (or contact me)
 
 # Changelog & Planned Versions
 [Changelog]()
