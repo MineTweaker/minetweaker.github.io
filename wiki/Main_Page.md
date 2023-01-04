@@ -9,7 +9,7 @@
 - [Known Incompatibilities](https://minetweaker.github.io/wiki/Main_Page#:~:text=Additional%20Content%3A%20ContentTweaker-,Known%20Incompatibilities,-CraftingManager%20isn%E2%80%99t%20compatible)
 - [References](https://minetweaker.github.io/wiki/Main_Page#:~:text=modifications%20are%20forbidden.-,References,-The%20following%20wiki)
 - [Extending MineTweaker](https://minetweaker.github.io/wiki/Main_Page#:~:text=NBT%20Tag%20formats-,Extending%20MineTweaker,-More%20than%20ever)
-- [Changelog & Planned Versions](https://minetweaker.github.io/wiki/Main_Page#:~:text=or%20contact%20me)-,Changelog%20%26%20Planned%20Versions,-Changelog%20Planned%20Versions)
+- [Changelog & Planned Versions](https://minetweaker.github.io/wiki/Main_Page#:~:text=or%20contact%20me)-,Changelog%20%26%20Planned%20Versions,-Changelog)
 - [Credits](https://minetweaker.github.io/wiki/Main_Page#:~:text=Changelog%20Planned%20Versions-,Credits,-Stan%20Hebben%2C%20as)
 
 
@@ -29,28 +29,28 @@ Forge Mods can also execute scripts in MineTweaker. [Mod Script Execution](https
 - [Comparison with MineTweaker 2](https://minetweaker.github.io/wiki/guide/Comparison_with_MineTweaker_2)
 
 # Tutorials (1.7.X)
-Lesson 1: Introduction
-Lesson 2: Basic Recipes
-Lesson 3: Ore Dictionary
-Lesson 4: Furnace
-Lesson 5: Advanced Recipes
-Lesson 6: Item Renaming
-Lesson 7: Tooltips
-Lesson 8: Loot and seeds
-Lesson 9: Loops
-Lesson 10: Localization
+- Lesson 1: [Introduction]()
+- Lesson 2: [Basic Recipes]()
+- Lesson 3: [Ore Dictionary]()
+- Lesson 4: [Furnace]()
+- Lesson 5: [Advanced Recipes]()
+- Lesson 6: [Item Renaming]()
+- Lesson 7: [Tooltips]()
+- Lesson 8: [Loot and seeds]()
+- Lesson 9: [Loops]()
+- Lesson 10: [Localization]()
 
 # Tutorials (1.6.4)
-Lesson 1: Introduction
-Lesson 2: Basic Recipes
-Lesson 3: Ore Dictionary
-Lesson 4: Furnace
-Lesson 5: Advanced Recipes
-Lesson 6: Item Renaming
-Lesson 7: Tooltips
-Lesson 8: Loot and seeds
-Lesson 9: Loops
-Lesson 10: Localization
+- Lesson 1: [Introduction]()
+- Lesson 2: [Basic Recipes]()
+- Lesson 3: [Ore Dictionary]()
+- Lesson 4: [Furnace]()
+- Lesson 5: [Advanced Recipes]()
+- Lesson 6: [Item Renaming]()
+- Lesson 7: [Tooltips]()
+- Lesson 8: [Loot and seeds]()
+- Lesson 9: [Loops]()
+- Lesson 10: [Localization]()
 
 # Guides
 Script Introduction
