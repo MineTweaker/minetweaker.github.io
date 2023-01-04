@@ -18,6 +18,6 @@ Attributes are stored in the AttributeModifiers field. For example:
 This kind of attribute would give a player 100 hearts instead of 10.
 
 ### Sources:
-- [http://imgur.com/a/Mh3fa
+- http://imgur.com/a/Mh3fa ![http://imgur.com/a/Mh3fa](https://i.imgur.com/8WG1Gew.png)
 - http://minecraft.gamepedia.com/Attribute
 - http://minecraft.gamepedia.com/Tutorials/Command_NBT_Tags
