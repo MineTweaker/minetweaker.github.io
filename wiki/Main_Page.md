@@ -69,7 +69,7 @@ Script Functions
 - [Magneticraft: Magneticraft Support](https://minetweaker.github.io/wiki/mods/Magneticraft)
 - [MineFactory Reloaded: MFR Support](https://minetweaker.github.io/wiki/mods/MineFactoryReloaded)
 - [NEI: NEI Support](https://minetweaker.github.io/wiki/mods/NEI)
-- [Tinkers' Steelworks: Tinkers' Steelworks Support](https://minetweaker.github.io/wiki/mods/TinkersConstruct)
+- [Tinkers' Steelworks: Tinkers' Steelworks Support](https://minetweaker.github.io/wiki/mods/TinkersSteelworks)
 - [Witching Gadgets: Witching Gadgets Support](https://minetweaker.github.io/wiki/mods/WitchingGadgets)
 - [Additional Support: ModTweaker](https://minetweaker.github.io/wiki/mods/Additional_Support)
 - [Additional Content: ContentTweaker](https://minetweaker.github.io/wiki/mods/Additional_Content)
