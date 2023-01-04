@@ -9,5 +9,5 @@ MineTweaker 3.1 consists of multiple aspects:
 - A file synchronization system to make clients automatically copy the configuration and MineTweaker mods from the server they connect with
 
 This documentation is currently available (preliminary, subject to change):
-- [MineTweaker synchronization](https://minetweaker.github.io/wiku/MineTweaker_synchronization)
-- [ZenCode specification](https://minetweaker.github.io/wiku/ZenCode_specification)
+- [MineTweaker synchronization](https://minetweaker.github.io/wiki/MineTweaker_synchronization)
+- [ZenCode specification](https://minetweaker.github.io/wiki/ZenCode_specification)
