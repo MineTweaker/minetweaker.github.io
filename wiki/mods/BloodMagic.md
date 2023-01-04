@@ -6,7 +6,7 @@ The following handlers are supported:
 - Orb Shaped/Shapeless Recipes
 - Alchemical Chemistry Set
 - Rituals : Blood Magic Ritual Support
-NOTE: If a recipe calls for a TierRequired the blood orb tier that you give and the ones above it will be used.
+**NOTE: If a recipe calls for a TierRequired the blood orb tier that you give and the ones above it will be used.**
 
 Each of these handlers can have recipes added or removed:
 ```
