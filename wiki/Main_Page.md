@@ -26,7 +26,7 @@ Additionally, all scripts are sent from server to client, and thus only need to 
 Forge Mods can also execute scripts in MineTweaker. [Mod Script Execution](https://minetweaker.github.io/wiki/mods/Mod_Script_Execution)
 
 # Comparison with MineTweaker 2
-[Comparison with MineTweaker 2](https://minetweaker.github.io/wiki/guide/Comparison_with_MineTweaker_2)
+- [Comparison with MineTweaker 2](https://minetweaker.github.io/wiki/guide/Comparison_with_MineTweaker_2)
 
 # Tutorials (1.7.X)
 Lesson 1: Introduction
@@ -95,8 +95,8 @@ More than ever before, you can extend MineTweaker with your own functionality.
 - In large projects, you can use the gradle RegisterZenClassesTask (see GitHub source in buildSrc) to generate a class containing a list of all registerable classes in your project. You can then submit the class name to MineTweakerAPI to make it register all those classes. All MineTweaker subproject use this system, so read those gradle build scripts to see how it's done. (or contact me)
 
 # Changelog & Planned Versions
-[Changelog]()
-[Planned Versions]()
+- [Changelog]()
+- [Planned Versions]()
 
 # Credits
 - Stan Hebben, as mod creator.
