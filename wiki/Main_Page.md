@@ -95,8 +95,8 @@ More than ever before, you can extend MineTweaker with your own functionality.
 - In large projects, you can use the gradle RegisterZenClassesTask (see GitHub source in buildSrc) to generate a class containing a list of all registerable classes in your project. You can then submit the class name to MineTweakerAPI to make it register all those classes. All MineTweaker subproject use this system, so read those gradle build scripts to see how it's done. (or contact me)
 
 # Changelog & Planned Versions
-- [Changelog]()
-- [Planned Versions]()
+- [Changelog](https://minetweaker.github.io/wiki/Changelog)
+- [Planned Versions](https://minetweaker.github.io/wiki/Planned_Versions)
 
 # Credits
 - Stan Hebben, as mod creator.
